@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc69080c7a7824544bb24f08b3c7586c, type: 3}
+  m_Name: wood_to_paper
+  m_EditorClassIdentifier: 
+  FromItem: {fileID: 8843001924348204587, guid: 93f02d2eee003ec40ab6fbf16ab802d8, type: 3}
+  ToItem: {fileID: 487555839435016514, guid: bb9b62a7bdd12a64aa6986fc58897695, type: 3}
